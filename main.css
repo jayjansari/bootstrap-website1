@@ -1,0 +1,567 @@
+.banner1{
+    background-image: url(img/head-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media(max-width:500px){
+    .banner1{
+        background-image: url(img/head-banner.jpg);
+        background-size: 200% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+}
+
+.bottum1{
+    background-image: url(img/bottom-banner11.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media(max-width:500px){
+    .bottum1{
+        background-image: url(img/bottom-banner11.jpg);
+        background-size: 200% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+}
+
+.banner2{
+    background-image: url(img/about-banner1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media(max-width:500px){
+    .banner2{
+        background-image: url(img/about-banner1.jpg);
+        background-size: 200% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+}
+
+
+.bottum2{
+    background-image: url(img/lol1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media(max-width:500px){
+    .bottum2{
+        background-image: url(img/lol1.jpg);
+        background-size: 200% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+}
+
+
+.banner3{
+    background-image: url(img/contact.banner1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@media(max-width:500px){
+    .banner3{
+        background-image: url(img/contact.banner1.jpg);
+        background-size: 200% 100%;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+}
+
+
+.bctr{
+	background-color: #00000062;
+    height: 100%;
+    width: 100%;
+}
+
+.bctrd{
+	background-color: #0000002d;
+    
+}
+
+.lightext{
+    color: #cdd5dd;
+}
+
+.font1{
+    font-family: 'Gabarito', cursive;
+}
+
+.radius-none{
+    border-radius: 0px 0px;
+}
+
+.border-none{
+    border: none;
+}
+
+.bcb:hover{
+	color:#4169e1;
+}
+
+.cg{
+    color: grey;
+}
+
+.bg-blue{
+    background-color: #8ed2fc14;
+}
+
+
+
+
+
+/* img */
+
+.shop1{
+    background-image: url(img/home.shop11.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 480px;
+}
+
+.shop2{
+    background-image: url(img/home.shop12.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 480px;
+}
+
+.shop3{
+    background-image: url(img/home.shop13.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 480px;
+}
+
+.product1{
+    background-image: url(img/product101.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product2{
+    background-image: url(img/product102.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product3{
+    background-image: url(img/product103.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product4{
+    background-image: url(img/product104.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product5{
+    background-image: url(img/product105.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product6{
+    background-image: url(img/product106.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product7{
+    background-image: url(img/product107.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product8{
+    background-image: url(img/product108.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product9{
+    background-image: url(img/product109.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+.product10{
+    background-image: url(img/product110.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 248px;
+}
+
+
+.product11{
+    background-image: url(img/product.01.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product12{
+    background-image: url(img/product.02.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product13{
+    background-image: url(img/product.03.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product14{
+    background-image: url(img/product.04.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product15{
+    background-image: url(img/product.05.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product16{
+    background-image: url(img/product.06.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product17{
+    background-image: url(img/product.07.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product18{
+    background-image: url(img/product.08.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product19{
+    background-image: url(img/product.09.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product20{
+    background-image: url(img/product.10.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product21{
+    background-image: url(img/product.11.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+.product22{
+    background-image: url(img/product.12.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 245px;
+}
+
+
+
+
+
+
+
+
+
+/* height */
+
+.h50{
+    height: 50%;
+}
+
+.hi100{
+    height: 100%;
+}
+
+.hi10{
+    height: 10%;
+}
+
+.hi20{
+    height: 20%;
+}
+
+.hi30{
+    height: 30%;
+}
+
+.hi40{
+    height: 40%;
+}
+
+
+/*width %*/
+
+.wi2{
+	width: 2%;
+}
+
+.wi3{
+	width: 3%;
+}
+
+.wi4{
+	width: 4%;
+}
+
+
+.wi5{
+	width: 5%;
+}
+
+.wi6{
+	width: 6%;
+}
+
+.wi7{
+	width: 7%;
+}
+
+.wi8{
+	width: 8%;
+}
+
+.wi9{
+	width: 9%;
+}
+
+.wi10{
+	width: 10%;
+}
+
+.wi11{
+	width: 11%;
+}
+
+.wi13{
+	width: 13%;
+}
+
+.wi14{
+	width: 14%;
+}
+
+.wi15{
+	width: 15%;
+}
+
+.wi16{
+	width: 16%;
+}
+
+.wi20{
+	width: 20%;
+}
+
+.wi22{
+	width: 22%;
+}
+
+.wi24{
+	width: 24%;
+}
+
+.wi25{
+	width: 25%;
+}
+
+.wi30{
+	width: 30%;
+}
+
+.wi31{
+	width: 31%;
+}
+
+.wi33{
+	width: 33%;
+}
+
+.wi34{
+	width: 34%;
+}
+
+.wi35{
+	width: 35%;
+}
+
+.wi36{
+	width: 36%;
+}
+
+.wi37{
+	width: 37%;
+}
+
+.wi38{
+	width: 38%;
+}
+
+.wi40{
+	width: 40%;
+}
+
+.wi48{
+	width: 48%;
+}
+
+.wi49{
+	width: 49%;
+}
+
+.wi45{
+	width: 45%;
+}
+
+.wi50{
+	width: 50%;
+}
+
+.wi55{
+	width: 55%;
+}
+
+.wi60{
+	width: 60%;
+}
+
+.wi65{
+	width: 65%;
+}
+
+.wi67{
+	width: 67%;
+}
+
+.wi70{
+	width: 70%;
+}
+
+.wi75{
+	width: 72.2%;
+}
+
+.wi76{
+	width: 75%;
+}
+
+.wi80{
+	width: 80%;
+}
+
+.wi84{
+	width: 84%;
+}
+
+.wi85{
+	width: 85%;
+}
+
+.wi86{
+	width: 86%;
+}
+
+.wi90{
+	width: 90%;
+}
+
+.wi95{
+	width: 95%;
+}
+
+.wi98{
+	width: 98%;
+}
+
+.wi100{
+	width: 100%;
+}
+
+/* border */
+
+.borcblue{
+    border-color: #0084d6;
+}
+
+
+/* hover */
+
+
+.hide .bag{
+    display: none;
+}
+
+.hide:hover .bag{
+    display: inline-block;
+}
+
+
+
+.box-shadow{
+    box-shadow: 0px 3px 5px;
+    transition: 0.5s;
+}
+
+.box-shadow:hover{
+    box-shadow: 0px 7px 15px;
+    transition: 0.5s;
+    
+}
+
+.btncircle{
+    border-radius: 50% 50%;
+    height: 16px;
+    width: 20px;
+}
+
+
